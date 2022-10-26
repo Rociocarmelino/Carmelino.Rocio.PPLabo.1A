@@ -1,0 +1,80 @@
+# depslib dependency file v1.0
+1666555772 source:c:\users\rocio\onedrive\escritorio\rocio\carrera programacion\1° cuatrimeste\programacion i\parcial1\parcial1.c
+	<stdio.h>
+	<stdlib.h>
+	"parcial1.h"
+	<string.h>
+
+1666555775 c:\users\rocio\onedrive\escritorio\rocio\carrera programacion\1° cuatrimeste\programacion i\parcial1\parcial1.h
+
+1666794221 source:c:\users\rocio\onedrive\escritorio\rocio\carrera programacion\1° cuatrimeste\programacion i\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parcial.h"
+	<conio.h>
+	"entidad1.h"
+	"entidad2.h"
+	"validaciones.h"
+	"informes.h"
+
+1666792558 c:\users\rocio\onedrive\escritorio\rocio\carrera programacion\1° cuatrimeste\programacion i\parcial1\parcial.h
+
+1666792595 source:c:\users\rocio\onedrive\escritorio\rocio\carrera programacion\1° cuatrimeste\programacion i\parcial1\parcial.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parcial.h"
+	<conio.h>
+	"entidad1.h"
+	"entidad2.h"
+
+1666790627 source:c:\users\rocio\onedrive\escritorio\rocio\carrera programacion\1° cuatrimeste\programacion i\parcial1\entidad1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parcial.h"
+	<conio.h>
+	"entidad1.h"
+	"entidad2.h"
+	"validaciones.h"
+
+1666793152 c:\users\rocio\onedrive\escritorio\rocio\carrera programacion\1° cuatrimeste\programacion i\parcial1\entidad1.h
+
+1666794211 c:\users\rocio\onedrive\escritorio\rocio\carrera programacion\1° cuatrimeste\programacion i\parcial1\entidad2.h
+
+1666794211 source:c:\users\rocio\onedrive\escritorio\rocio\carrera programacion\1° cuatrimeste\programacion i\parcial1\entidad2.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parcial.h"
+	<conio.h>
+	"entidad1.h"
+	"entidad2.h"
+	"validaciones.h"
+
+1666789309 source:c:\users\rocio\onedrive\escritorio\rocio\carrera programacion\1° cuatrimeste\programacion i\parcial1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parcial.h"
+	<conio.h>
+	"entidad1.h"
+	"entidad2.h"
+	"validaciones.h"
+	"informes.h"
+
+1666792444 c:\users\rocio\onedrive\escritorio\rocio\carrera programacion\1° cuatrimeste\programacion i\parcial1\validaciones.h
+
+1666792444 c:\users\rocio\onedrive\escritorio\rocio\carrera programacion\1° cuatrimeste\programacion i\parcial1\informes.h
+
+1666788461 source:c:\users\rocio\onedrive\escritorio\rocio\carrera programacion\1° cuatrimeste\programacion i\parcial1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"parcial.h"
+	<conio.h>
+	"entidad1.h"
+	"entidad2.h"
+	"validaciones.h"
+
